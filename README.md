@@ -1,2 +1,2 @@
 # Code-Snippets
-A repository containing note and snippets for different things.
+A repository containing notes and snippets for different things.
