@@ -43,6 +43,7 @@ sudo nginx -t
 ```
 
 ## UFW config
+Below if to only allow https traffic 
 ```
 sudo ufw status
 # possibly for https traffic
