@@ -410,7 +410,7 @@ sudo cp /etc/nginx/conf.d/default.conf /etc/nginx/sites-available/example.com.co
 Example config api.temp-server.com.conf
 ```
 server {
-    listen 80 default_server;
+    listen 80;
     server_name api.temp-server.com;
 
     location / {
@@ -425,9 +425,6 @@ server {
 
 }
 ```
-
-
-
 
 ## Setting up nginx server block configs
 ```
