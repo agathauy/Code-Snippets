@@ -2,6 +2,7 @@ CSS tips
 https://denic.hashnode.dev/css-tips-you-wont-see-in-most-tutorials
 
 JS-free modal  
+https://twitter.com/denicmarko/status/1350761109360414721
 https://codepen.io/denic/pen/ZEbKgPp
 ```css
 /* If you like this, be sure to ❤️ it. */
